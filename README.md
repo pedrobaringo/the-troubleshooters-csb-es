@@ -32,7 +32,7 @@ Una vez hemos seleccionado la template y hacemos click en el icono de refrescar 
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/ce995ff3-b71b-4df6-b4dc-f640304f8104)
 
-En la parte de arriba se pueden poner la vitalidad máxima y actual, las marcas de mejora y los puntos de historia, asi como hacer la tirada de iniciativa.
+En la parte de arriba se pueden poner la vitalidad máxima y actual, las marcas de mejora y los puntos de historia, asi como hacer la tirada de iniciativa. Tambien es aquí donde aparecerán los estados si se arrastran a la ficha.
 
 ### Pestaña de Habilidades
 En la pestaña de habilidades se pueden modificar los valores entre 15 y 106.
@@ -137,14 +137,27 @@ Al clickar en los botones se genera un nuevo mensaje con el resultado correspond
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/8e6f3f8f-ca9e-4579-8fee-6a63a356e79b)
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/e4918cd5-30e8-471e-b3cc-bae567ec225a)
 
+Para aplicar un modificador a la tirada, se deberá pulsar la tecla "Mayus" mientras se hace click. Aparecerá un dialogo donde podemos asignar el modificador positivo o negativo. Esto funciona solo en las tiradas donde puede haber modificador.
 
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/14c370ba-017a-4d69-b5e8-5594f2e2bbea)
 
+## Iniciativa y Combate
+Antes de empezar un combate, todos los PJs y los PNJs que tengan de Iniciativa una tirada de acción, deberan hacer click en su iniciativa para que se lancen los dados y se calcule.
 
+Solo cuando lo hayan hecho todos se podrá "tirar" la iniciativa en el menú de "Encuentros de Combate". Se ordenarán los actores de mayor iniciativa a menor.
 
+Como caso particular, si se hace una acción "¡PAM! - Disparo preciso" la iniciativa en la ficha bajará en 2 puntos automaticamente, pero se tendrá que volver a calcular para el siguiente turno en "Encuentros de Combate".
 
+En el caso de "¡RATATATA! - Vaciar el Arma" saldrán dos botones de daño, el normal que se aplica si impactas a varios personajes y el "Daño a un solo objetivo" que añade dos dados al daño automaticamente si solo te concentras en un objetivo.
 
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/99d65377-8e29-4f49-bba6-410e97babd60)
 
+## Posibles problemas
+Debido a como esta creado el sistema Custom System Builder, tuve que implementar los botones del chat de una forma poco óptima. Esto puede provocar que algunas veces no aparezcan los botones o aparezcan en mensajes anteriores (creo que puede ser más habitual con conexiones lentas, pero no he podido probarlo).
 
+Este problema no afecta a los resultados de las tiradas y si se quiere dar la vuelta a la tirada se puede hacer mentalmente y restar los puntos de Historia manualmente en la ficha.
+
+En el caso que sucediese en una tirada de combate y no apareciese el botón de Daño, se puede hacer la tirada usando en el chat la siguiente formula (explotan los 6 y cuenta como éxitos los valores superiores o iguales a 4) sustituyendo Y por el número de dados de daño que se tirarian: **Yd6x6cs>=4**
 
 
 
