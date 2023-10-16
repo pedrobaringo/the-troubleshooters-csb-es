@@ -6,22 +6,6 @@
     "minimum": "11",
     "verified": "11"
   },
-  "relationships": {
-    "systems": [
-      {
-        "id": "custom-system-builder",
-        "type": "system",
-        "compatibility": {}
-      }
-    ],
-    "recommends": [
-      {
-        "id": "dice-so-nice",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Pedro Baringo",
@@ -55,6 +39,6 @@
     }
   ],
   "url": "https://github.com/pedrobaringo/the-troubleshooters-csb-es",
-  "manifest": "https://raw.githubusercontent.com/pedrobaringo/the-troubleshooters-csb-es/master/module.json",
+  "manifest": "https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.4/module.json",
   "download": "https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.4/the-troubleshooters-csb-es.rar"
 }
