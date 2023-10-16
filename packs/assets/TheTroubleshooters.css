@@ -1,0 +1,237 @@
+@font-face {
+    font-family: "Astounder";
+    src: url("../assets/astounder-squared-bb.woff.ttf");
+}
+@font-face {
+    font-family: "Calliope";
+    src: url("../assets/Calliope MVB Regular.ttf");
+}
+@font-face {
+    font-family: "KomikaBI";
+    src: url("../assets/KOMTXKBI.ttf");
+}
+@font-face {
+    font-family: "Komika";
+    src: url("../assets/KOMTXT__.ttf");
+}
+.window-app .window-content {
+    background: white;
+    background-size: cover;
+}
+.hablab{
+	font-family:'Astounder';
+	font-size: 22px;
+}
+.habnum{
+	font-family:'Komika';
+	font-size: 17px;
+}
+.tabpanel{
+	font-family:'Astounder';
+	font-size: 25px;
+	color: #616161;
+}
+.tabpanel .item.active{
+	font-family:'Astounder';
+	font-size: 25px;
+	text-decoration:underline;
+	color: black;
+}
+.titletrouble{
+	font-family:'Astounder';
+	font-size: 27px;
+	color: black;
+	padding-bottom:5px;
+}
+.titletroubleprotecc{
+	font-family:'Astounder';
+	font-size: 20px;
+	color: black;
+	padding-bottom:5px;
+}
+.tabledesc{
+	font-family:'Astounder';
+	font-size: 20px;
+	color: black;
+}
+.panvithist{
+	font-family:'Astounder';
+	font-size: 18px;
+	color: black;
+}
+.panestados{
+	font-family:'Astounder';
+	font-size: 18px;
+	color: black;
+}
+.puntos{
+	font-family:'Komika';
+	font-size: 18px;
+	color: black;
+}
+.tablatalcom{
+	font-family:'Komika';
+	font-size: 14px;
+	color: black;
+}
+.butdef button{
+    width: auto;
+    background: white;
+    border: 1px solid black;
+    margin: 0 5px;
+	font-family: 'Astounder';
+    font-size: 18px;
+	padding-bottom: 5px;
+	border-radius:15px;
+	box-shadow: 2px 2px 2px grey;
+}
+.butdef button:hover {
+    width: auto;
+    background: #f1f1ed;
+    border: 1px solid black;
+    margin: 0 5px;
+	font-family: 'Astounder';
+    font-size: 18px;
+	padding-bottom: 5px;
+	border-radius:15px;
+	box-shadow: 2px 2px 2px grey inset;
+}
+.panelprot{
+	font-family:'Astounder';
+	font-size: 18px;
+	color: black;
+}
+.textprot{
+	font-family:'Komika';
+	font-size: 18px;
+	color: black;
+}
+.tablaarmas{
+	font-family:'Astounder';
+	font-size: 19px;
+	color: black;
+}
+.textlengganch{
+	font-family:'Komika';
+	font-size: 15px;
+	color: black;
+}
+.charname{
+	font-family:'Astounder';
+	font-size: 40px;
+	color: black;
+}
+.itemname{
+	font-family:'Astounder';
+	font-size: 40px;
+	color: black;
+}
+.tableright table{
+	border-top: 0px solid ;
+    border-bottom: 0px solid;
+	background-color:white;
+}
+.tableleft table{
+	border-right: 2px solid black;
+	border-top: 0px solid ;
+    border-bottom: 0px solid;
+	background-color:white;
+}
+.chat-message .message-content {
+    font-family:'Astounder';
+	font-size:20px;
+	text-align:center;
+}
+.chat-message .message-content button{
+    width: auto;
+    background: white;
+    border: 1px solid black;
+    margin: 0 5px;
+	font-family: 'Astounder';
+    font-size: 18px;
+	padding-bottom: 5px;
+	border-radius:10px;
+	box-shadow: 2px 2px 2px grey;
+	margin-bottom:5px;
+}
+.chat-message .message-content button:hover{
+	width: auto;
+    background: #f1f1ed;
+    border: 1px solid black;
+    margin: 0 5px;
+	font-family: 'Astounder';
+    font-size: 18px;
+	padding-bottom: 5px;
+	border-radius:10px;
+	box-shadow: 2px 2px 2px grey inset;
+	margin-bottom:5px;
+}
+.chat-message .message-content h1{
+	 font-family:'Astounder';
+	font-size:30px;
+	text-align:center;
+	border-bottom: 0px;
+}
+.chat-message .message-content h2{
+	 font-family:'Astounder';
+	font-size:30px;
+	text-align:center;
+	border-bottom: 0px;
+}
+.chat-message .message-content h3{
+	 font-family:'Astounder';
+	font-size:25px;
+	text-align:center;
+	border-bottom: 0px;
+	display: block;
+	padding: 0px;
+}
+.custom-system-user-inputs{
+	font-family:'Astounder';
+	font-size:20px;
+	text-align:center;
+}
+.custom-system-user-input-button{
+	width: auto;
+    background: white;
+    border: 1px solid black;
+    margin: 0 1px;
+	font-family: 'Astounder';
+    font-size: 18px;
+	padding-bottom: 5px;
+	border-radius:10px;
+	box-shadow: 2px 2px 2px grey;
+	margin-bottom:5px;
+}
+.custom-system-user-input-button:hover{
+	width: auto;
+    background: #f1f1ed;
+    border: 1px solid black;
+    margin: 0 1px;
+	font-family: 'Astounder';
+    font-size: 18px;
+	padding-bottom: 5px;
+	border-radius:10px;
+	box-shadow: 2px 2px 2px grey inset;
+	margin-bottom:5px;
+}
+input[type="number"] {
+	width:50px;
+}
+.custom-system-dynamic-table-row-icons{
+	color: black;
+	font-size: 16px;
+}
+.custom-system-addDynamicLine .custom-system-clickable .fa-solid, .fa-plus-circle{
+	color: black;
+	font-size: 16px;
+}
+.panelhist{
+	grid-template-columns: 65% 30%;
+}
+.darvueltaindicador{
+	display:none;
+}
+.iniciativacheckaccion{
+	font-size: 12px;
+}
