@@ -53,8 +53,11 @@ Se pueden borrar con el icono de papelera de la derecha.
 
 ### Pestaña de Equipo y Lenguas
 En esta pestaña se pueden añadir los kits de equipo, idiomas y ganchos de trama.
+
 Para el Equipo tenemos que pulsar en el botón de + para crear una nueva linea y rellenarla como queramos. Podemos marcarlo como de Marca personal o si lo tenemos equipado.
+
 Para las lenguas, tenemos la casilla de lengua materna y debajo con el botón + podemos añadir lenguas habladas con fluidez.
+
 Los Ganchos de trama estan en Contactos y se añaden pulsando el botón +.
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/17456373-f04f-4f08-86d9-1b9b2cb5a678)
@@ -64,8 +67,34 @@ En esta última pestaña podemos rellenar la descripción del PJ y tomar notas o
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/a45e5f8d-5b5d-4df4-b72a-9ba78381ebcd)
 
+## Crear un PNJ
+Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
 
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/8968dfd6-5c10-4106-93c1-46780300058a)
 
+Aqui tenemos que seleccionar en Template una de las dos templates llamadas PNJ_Template segun el siguiente criterio:
+* Si vamos a **usar el módulo Dice so Nice** (https://foundryvtt.com/packages/dice-so-nice) para ver las tiradas con dados 3D, debemos seleccionar la template **"PNJ_Template_DSN"**. Sin el módulo no funcionarán las tiradas con esta template.
+* Si **no vamos a usar ese módulo**, debemos seleccionar la template **"PNJ_Template"**.
 
+Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/1879812a-426b-49f7-a77e-97129bfce476)
 
+En la parte de arriba se pueden poner la vitalidad máxima y actual y podemos asignarle la iniciativa si es un valor fijo o hacer check en la casilla de encima si la iniciativa es con una tirada de Acción.
+
+Tambien apareceran aqui las etiquetas que arrastremos a este personaje y la casilla de Dar la Vuelta a las tiradas si le arrastramos la correspondiente etiqueta (que está en la carpeta "Etiquetas Adversarios").
+
+### Pestaña de Habilidades
+En esta pestaña podemos poner los valores de ha habilidad básica y Especialista así como añadir más habilidades con el botón +.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/adc9089d-7058-4893-9c86-81908d5062d4)
+
+### Pestaña de Combate
+En esta pestaña podeis añadir las armas con el botón + con todas sus estadisticas, podeis definir el valor de defensa si tiene así como la protección.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/ea1d1cb3-49ce-4156-be2c-23ce75eaba0a)
+
+### Pestaña de Descripción y Notas
+En esta última pestaña podemos tomar notas o describir al personaje.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/7670cc6d-3ca5-4b7a-9203-76fd6ddf92af)
