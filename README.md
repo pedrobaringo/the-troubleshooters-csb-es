@@ -1,9 +1,8 @@
 # Fichas para The Troubleshooters en Custom System Builder
 
 ## Tabla de Contenido
-[Introducción](#introducción)
-
-[Instalación](#instalación)
+-[Introducción](#introducción)
+-[Instalación](#instalación)
 
 
 ## Introducción
