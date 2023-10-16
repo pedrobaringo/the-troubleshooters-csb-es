@@ -11,9 +11,13 @@
   - [Pestaña de Equipo y Lenguas](#pestaña-de-equipo-y-lenguas)
   - [Pestaña de Descripción y Notas](#pestaña-de-descripción-y-notas)
 - [Crear un PNJ](#crear-un-pnj)
-  - [Pestaña de Habilidades](#pestaña-de-habilidades)
-  - [Pestaña de Combate](#pestaña-de-combate)
-  - [Pestaña de Descripción y Notas](#pestaña-de-descripción-y-notas)
+  - [Pestaña de Habilidades](#pestaña-de-habilidades-1)
+  - [Pestaña de Combate](#pestaña-de-combate-1)
+  - [Pestaña de Descripción y Notas](#pestaña-de-descripción-y-notas-1)
+- [Crear Objetos](#crear-objetos)
+- [Hacer tiradas](#hacer-tiradas)
+- [Iniciativa y Combate](#iniciativa-i-combate)
+- [Posibles problemas](#posibles-problemas)
 
 ## Introducción
 Modulo de Foundry VTT con las templates de las fichas para el juego The Troubleshooters en español para el sistema Custom System Builder ( https://foundryvtt.com/packages/custom-system-builder ).
