@@ -1,10 +1,26 @@
 {
   "id": "the-troubleshooters-csb-es",
   "title": "The Troubleshooters (CSB) Templates y CSS",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
   },
   "authors": [
     {
@@ -39,6 +55,6 @@
     }
   ],
   "url": "https://github.com/pedrobaringo/the-troubleshooters-csb-es",
-  "manifest": "https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.6/module.json",
-  "download": "https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.6/the-troubleshooters-csb-es.zip"
+  "manifest": "https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.7/module.json",
+  "download": "https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.7/the-troubleshooters-csb-es.zip"
 }
