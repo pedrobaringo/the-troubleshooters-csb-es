@@ -2,7 +2,8 @@
 
 ## Tabla de Contenido
 [Introducción](#introducción)
-[Intalación](#intalación)
+
+[Instalación](#instalación)
 
 
 ## Introducción
