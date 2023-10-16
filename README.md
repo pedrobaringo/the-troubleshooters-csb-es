@@ -11,3 +11,5 @@ Para usar los estilos de la ficha y del chat y tener la formula de iniciativa co
 Initiative Formula: iniciativa
 
 CSS Style file: modules/the-troubleshooters-csb-es/packs/assets/TheTroubleshooters.css
+
+Para instalar este módulo en Foundry tienes que usar el siguiente Manifest: https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.7/module.json
