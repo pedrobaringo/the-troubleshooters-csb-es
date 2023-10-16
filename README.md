@@ -98,3 +98,52 @@ En esta pestaña podeis añadir las armas con el botón + con todas sus estadist
 En esta última pestaña podemos tomar notas o describir al personaje.
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/7670cc6d-3ca5-4b7a-9203-76fd6ddf92af)
+
+## Crear Objetos
+Si hacemos click en crear objeto y elegimos el tipo "equippableItem" podremos crear objetos de todos los tipos usando las templates.
+Los tipos son:
+* **Armas_CaC_Template**: Para armas Cuerpo a Cuerpo, solo para PJ.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/032ce1b5-5de8-4cff-9050-ca47a1a1ccd5)
+
+* **Armas_Dist_Template**: Para armas a Distancia, solo para PJ.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/cf9ecdba-2816-4545-b2bf-cc294ce6667e)
+
+  
+* **Complicacion_Template**: Para las Complicaciones, solo para PJ.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/5d88451e-87c1-4c0e-8cc0-255f2abea010)
+
+
+* **Talento_Template**: Para los Talentos, solo para PJ.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/e5b862ba-1c5a-43c9-a032-1d46e63298ae)
+
+
+* **Estados_Template**: Para los Estados, sirve para PJs y PNJs.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/ebeb889d-d5a1-4942-bf53-60948138272d)
+
+
+* **Etiquetas_Template**: Para las etiquetas de los PNJs.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/33e16ba9-d43c-479c-a3da-991a1955bbd5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
