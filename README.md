@@ -1,5 +1,5 @@
 # the-troubleshooters-csb-es
-Modulo de Foundry VTT con las templates de las fichas para el juego The Troubleshooters en español para el sistema Custom System Builder
+Modulo de Foundry VTT con las templates de las fichas para el juego The Troubleshooters en español para el sistema Custom System Builder ( https://foundryvtt.com/packages/custom-system-builder ).
 Para aprender como instalarlo y usarlo podeis ver el tutorial en el siguiente enlace: https://youtu.be/2LBxsz_r_Wg
 
 Si no quieres usar el módulo Dice so Nice (https://foundryvtt.com/packages/dice-so-nice) deberás usar las templates que no contienen "_DSN" en el nombre.
