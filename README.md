@@ -16,7 +16,7 @@
   - [Pestaña de Descripción y Notas](#pestaña-de-descripción-y-notas-1)
 - [Crear Objetos](#crear-objetos)
 - [Hacer tiradas](#hacer-tiradas)
-- [Iniciativa y Combate](#iniciativa-i-combate)
+- [Iniciativa y Combate](#iniciativa-y-combate)
 - [Posibles problemas](#posibles-problemas)
 
 ## Introducción
