@@ -3,7 +3,11 @@
 ## Tabla de Contenido
 - [Introducción](#introducción)
 - [Instalación](#instalación)
-
+- [Añadir estilos CSS](#añadir-estilos-css)
+- [Crear un PJ](#crear-un-pj)
+  - [Pestaña de Habilidades](#pestaña-de-habilidades)
+  - [Pestaña de Talentos y Complicaciones](#pestaña-de-talentos-y-complicaciones)
+  - [Pestaña de Combate](#pestaña-de-combate)
 
 ## Introducción
 Modulo de Foundry VTT con las templates de las fichas para el juego The Troubleshooters en español para el sistema Custom System Builder ( https://foundryvtt.com/packages/custom-system-builder ).
