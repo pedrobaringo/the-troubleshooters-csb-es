@@ -28,7 +28,7 @@ Para aprender como instalarlo y usarlo podeis ver el tutorial en el siguiente en
 
 
 ## Instalación
-Para instalar este módulo en Foundry tienes que usar el siguiente Manifest en el menú de módulos como se muestra en la imagen: https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.7/module.json
+Para instalar este módulo en Foundry tienes que usar el siguiente Manifest en el menú de módulos como se muestra en la imagen: [https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/download/1.0.7/module.json](https://github.com/pedrobaringo/the-troubleshooters-csb-es/releases/latest/download/module.json)
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/d904a729-8c60-433c-a126-d54e05735512)
 
