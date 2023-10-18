@@ -182,12 +182,3 @@ Debido a como esta creado el sistema Custom System Builder, tuve que implementar
 Este problema no afecta a los resultados de las tiradas y si se quiere dar la vuelta a la tirada se puede hacer mentalmente y restar los puntos de Historia manualmente en la ficha.
 
 En el caso que sucediese en una tirada de combate y no apareciese el botón de Daño, se puede hacer la tirada usando en el chat la siguiente formula (explotan los 6 y cuenta como éxitos los valores superiores o iguales a 4) sustituyendo Y por el número de dados de daño que se tirarian: **Yd6x6cs>=4**
-
-
-
-
-
-
-
-
-
