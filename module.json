@@ -52,6 +52,17 @@
       },
       "system": "custom-system-builder",
       "flags": {}
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder"
     }
   ],
   "url": "https://github.com/pedrobaringo/the-troubleshooters-csb-es",

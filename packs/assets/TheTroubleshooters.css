@@ -235,3 +235,49 @@ input[type="number"] {
 .iniciativacheckaccion{
 	font-size: 12px;
 }
+.sheet.journal-entry .journal-entry-content{
+	background: white;
+}
+.monks-enhanced-journal .enhanced-journal .sheet.journal-entry .journal-entry-content {
+	background: white;
+}
+.sheet.journal-entry .journal-entry-page header h1{
+font-family:'Astounder';
+	font-size: 40px;
+}
+.sheet.journal-entry .journal-entry-page h1{
+font-family:'Astounder';
+	font-size: 30px;
+}
+.sheet.journal-entry .journal-entry-page h2{
+font-family:'Astounder';
+	font-size: 28px;
+}
+.sheet.journal-entry .journal-entry-page h3{
+font-family:'Astounder';
+	font-size: 20px;
+}
+.sheet.journal-entry .journal-entry-page {
+font-family:'Komika';
+	font-size: 15px;
+}
+.sheet.journal-entry .pages-list .page-heading .page-title{
+	font-family:'Astounder';
+	font-size: 20px;
+}
+.sheet.journal-entry .pages-list .h2 .heading-link {
+	font-family:'Astounder';
+	font-size: 16px;
+}
+.sheet.journal-entry .journal-header .title {
+	font-family:'Astounder';
+	font-size: 50px;
+	font-weight:700;
+	padding-bottom:15px;
+}
+.custom-system-item-container-image{
+	display:none;
+}
+.custom-system-field-x-small {
+    width: 1.8em;
+}
