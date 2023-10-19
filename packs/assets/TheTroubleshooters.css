@@ -301,3 +301,10 @@ font-family:'Komika';
 	border: 0px;
 	color: #ff6400; 
 }
+.custom-system-roll i{
+	display: none;
+}
+.custom-system-roll {
+    background: #fff0;
+    border: 0px solid #4b4a44;
+}
