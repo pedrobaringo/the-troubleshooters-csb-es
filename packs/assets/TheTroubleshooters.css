@@ -281,3 +281,23 @@ font-family:'Komika';
 .custom-system-field-x-small {
     width: 1.8em;
 }
+.panestados a.content-link{
+	background:transparent;
+	border: 0px;
+	color: #ff6400; 
+}
+.tablatalcom a.content-link{
+	background:transparent;
+	border: 0px;
+	color: #ff6400; 
+}
+.tablaarmas a.content-link{
+	background:transparent;
+	border: 0px;
+	color: #ff6400; 
+}
+.panvithist a.content-link{
+	background:transparent;
+	border: 0px;
+	color: #ff6400; 
+}
