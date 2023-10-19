@@ -43,6 +43,8 @@ Para que el estilo de las fichas y mensajes sean más parecidos al libro debemos
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/c499de71-1317-44bd-89b1-33805d8cf15d)
 
+Para que tenga efecto debemos refrescar la página.
+
 ## Crear un PJ
 Una vez estan importadas las templates ya podemos crear los Actores.
 Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "character" y se nos creará una ficha en blanco.
