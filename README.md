@@ -32,11 +32,12 @@ Para instalar este módulo en Foundry tienes que usar el siguiente Manifest en e
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/d904a729-8c60-433c-a126-d54e05735512)
 
-Cuando hayas creado un mundo con el sistema Custom System Builder debes activar este módulo. En la pestaña de compendios tendrás dos: "Templates Actores" y "Templates Objetos".
+Cuando hayas creado un mundo con el sistema Custom System Builder debes activar este módulo. En la pestaña de compendios tendrás tres: "Templates Actores", "Templates Objetos" y "Macros".
 Es importante que importes primero los Objetos y después los Actores, pero sobretodo que se mantenga el ID del documento como se ve en la imagen:
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/6fa9c0c2-1936-4db6-99b2-7e80f54e7172)
 
+El Macro puedes importarlo en el orden que quieras.
 ## Añadir estilos CSS
 Para que el estilo de las fichas y mensajes sean más parecidos al libro debemos ir a Configurar Ajustes --> Custom System Builder y allí rellenarel campo CSS Style file con "modules/the-troubleshooters-csb-es/packs/assets/TheTroubleshooters.css", sin las comillas. Y ya que estamos en este menú, aprovechamos para cambiar la Initiative formula a "iniciativa" (sin las comillas y en minuscula).
 
