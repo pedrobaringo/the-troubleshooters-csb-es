@@ -1,3 +1,5 @@
+![Fondo Tutorial_Troubleshooters](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/2c371565-5415-438e-9ae2-4814cced86d0)
+
 # Fichas para The Troubleshooters en Custom System Builder
 
 ## Tabla de Contenido
