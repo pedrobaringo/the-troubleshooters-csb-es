@@ -138,7 +138,7 @@
 	background-color:white;
 }
 .chat-message .message-content {
-    font-family:'Astounder';
+    font-family:'Komika';
 	font-size:20px;
 	text-align:center;
 }
@@ -307,4 +307,16 @@ font-family:'Komika';
 .custom-system-roll {
     background: #fff0;
     border: 0px solid #4b4a44;
+}
+.chat-message header{
+	font-family: 'Astounder';
+}
+.chat-message .message-header .message-sender{
+	font-size:20px;
+	text-wrap: wrap;
+	line-height:80%;
+}
+.message .message-header .message-metadata {
+	flex:0 0 50px;
+	margin-left: 0;
 }
