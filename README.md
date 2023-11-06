@@ -198,7 +198,7 @@ Cuando suba actualizaciones que modifican las Templates se tendrán que volver a
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/2ec1aab1-5b6e-48cd-95d7-391c0bafd9b4)
 
-Si no se importan correctamente y nos encontramos con templates duplicadas, lo mejor es borrarlas todas y volver a importarlas. EL problema es que después deberemos volver a seleccionar la template correspondiente para cada actor que hayamos creado.
+Si no se importan correctamente y nos encontramos con templates duplicadas, lo mejor es borrarlas todas y volver a importarlas. El problema es que después deberemos volver a seleccionar la template correspondiente para cada actor que hayamos creado.
 
 ## Posibles problemas
 Debido a como esta creado el sistema Custom System Builder, tuve que implementar los botones del chat de una forma poco óptima. Esto puede provocar que algunas veces no aparezcan los botones o aparezcan en mensajes anteriores (creo que puede ser más habitual con conexiones lentas, pero no he podido probarlo).
