@@ -19,6 +19,7 @@
 - [Crear Objetos](#crear-objetos)
 - [Hacer tiradas](#hacer-tiradas)
 - [Iniciativa y Combate](#iniciativa-y-combate)
+- [¿Cómo importar templates después de una actualización?](#como-importar-templates-después-de-una-actualización)
 - [Posibles problemas](#posibles-problemas)
 
 ## Introducción
@@ -181,6 +182,23 @@ En el caso de "¡RATATATA! - Vaciar el Arma" saldrán dos botones de daño, el n
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/99d65377-8e29-4f49-bba6-410e97babd60)
 
 Si el arma provoca daño adicional según el resultado debido a alguna etiqueta, se puede usar el macro que he añadido a este módulo o usar la fórmula **/r Yd6x6cs>=4** en el chat sustituyendo la Y por el número de dados a tirar.
+
+## ¿Cómo importar templates después de una actualización?
+Cuando suba actualizaciones que modifican las Templates se tendrán que volver a importar de los compendios. Para evitar que se dupliquen y no sepamos cuales son las nuevas tenemos que hacerlo de la siguiente forma:
+1. Vamos al apartado de compendios.
+2. Hacemos click izquierdo encima del compendio que vayamos a importar.
+3. Hacemos click en "Importar todo".
+4. Seleccionamos la carpeta "Templates Actores" o "Templates_Objetos"(es la que se creó cuando se importaron por primera vez).
+5. Seleccionamos "Mantener ID del Documento"
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/ecc7a10b-3899-4a37-88b8-42c56829a400)
+
+6. Hacemos click en "Si" y deberian importarse sustituyendo las ya existentes.
+7. Vamos a cada template y hacemos click en "Reload all character Sheets" o "Reload all item sheets". De esta forma se habrán actualizado todas las fichas con los cambios.
+
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/2ec1aab1-5b6e-48cd-95d7-391c0bafd9b4)
+
+Si no se importan correctamente y nos encontramos con templates duplicadas, lo mejor es borrarlas todas y volver a importarlas. EL problema es que después deberemos volver a seleccionar la template correspondiente para cada actor que hayamos creado.
 
 ## Posibles problemas
 Debido a como esta creado el sistema Custom System Builder, tuve que implementar los botones del chat de una forma poco óptima. Esto puede provocar que algunas veces no aparezcan los botones o aparezcan en mensajes anteriores (creo que puede ser más habitual con conexiones lentas, pero no he podido probarlo).
