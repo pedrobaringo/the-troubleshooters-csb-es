@@ -19,7 +19,7 @@
 - [Crear Objetos](#crear-objetos)
 - [Hacer tiradas](#hacer-tiradas)
 - [Iniciativa y Combate](#iniciativa-y-combate)
-- [¿Cómo importar templates después de una actualización?](#como-importar-templates-después-de-una-actualización)
+- [¿Cómo importar templates después de una actualización?](#¿como-importar-templates-después-de-una-actualización?)
 - [Posibles problemas](#posibles-problemas)
 
 ## Introducción
