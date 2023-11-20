@@ -1,0 +1,51 @@
+Hooks.once('diceSoNiceReady', (dice3d) => {
+    dice3d.addSystem({id:"troubleDice",name:"Trouble Dice"},"preferred");
+    dice3d.addDicePreset({
+      type:"d6",
+      labels:[
+        'modules/the-troubleshooters-csb-es/images/Cara1_d6.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara2_d6.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara3_d6.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara4_d6.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara5_d6.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara6_d6.webp'
+      ],
+      bumpMaps:[
+        'modules/the-troubleshooters-csb-es/images/Cara1_d6_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara2_d6_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara3_d6_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara4_d6_Bump.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara5_d6_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara6_d6_Bump.webp'
+      ],
+      system: "troubleDice"
+    });
+	dice3d.addDicePreset({
+      type:"d10",
+      labels:[
+        'modules/the-troubleshooters-csb-es/images/Cara1_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara2_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara3_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara4_d10.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara5_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara6_d10.webp',
+		'modules/the-troubleshooters-csb-es/images/Cara7_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara8_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara9_d10.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara0_d10.webp'
+      ],
+      bumpMaps:[
+        'modules/the-troubleshooters-csb-es/images/Cara1_d10_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara2_d10_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara3_d10_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara4_d10_Bump.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara5_d10_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara6_d10_Bump.webp',
+		'modules/the-troubleshooters-csb-es/images/Cara7_d10_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara8_d10_Bump.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara9_d10_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara0_d10_Bump.webp'
+      ],
+      system: "troubleDice"
+    });
+});

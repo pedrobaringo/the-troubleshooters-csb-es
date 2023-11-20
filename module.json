@@ -28,6 +28,9 @@
       "flags": {}
     }
   ],
+  "esmodules": [
+		"./modules/trouble.js"
+	],
   "packs": [
     {
       "name": "templates-actores",
