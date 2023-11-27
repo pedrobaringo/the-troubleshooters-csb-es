@@ -5,7 +5,7 @@
 ## Tabla de Contenido
 - [Introducción](#introducción)
 - [Instalación](#instalación)
-- [Configurar fórmula de Iniciativa](#configurar-formula-de-iniciativa)
+- [Configurar fórmula de Iniciativa](#configurar-fórmula-de-iniciativa)
 - [Crear un PJ](#crear-un-pj)
   - [Pestaña de Habilidades](#pestaña-de-habilidades)
   - [Pestaña de Talentos y Complicaciones](#pestaña-de-talentos-y-complicaciones)
