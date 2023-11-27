@@ -5,7 +5,7 @@
 ## Tabla de Contenido
 - [Introducción](#introducción)
 - [Instalación](#instalación)
-- [Añadir estilos CSS](#añadir-estilos-css)
+- [Configurar fórmula de Iniciativa](#configurar-formula-de-iniciativa)
 - [Crear un PJ](#crear-un-pj)
   - [Pestaña de Habilidades](#pestaña-de-habilidades)
   - [Pestaña de Talentos y Complicaciones](#pestaña-de-talentos-y-complicaciones)
@@ -40,10 +40,10 @@ Es importante que importes primero los Objetos y después los Actores, pero sobr
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/6fa9c0c2-1936-4db6-99b2-7e80f54e7172)
 
 El Macro puedes importarlo en el orden que quieras.
-## Añadir estilos CSS
-Para que el estilo de las fichas y mensajes sean más parecidos al libro debemos ir a Configurar Ajustes --> Custom System Builder y allí rellenarel campo CSS Style file con "modules/the-troubleshooters-csb-es/packs/assets/TheTroubleshooters.css", sin las comillas. Y ya que estamos en este menú, aprovechamos para cambiar la Initiative formula a "iniciativa" (sin las comillas y en minuscula).
+## Configurar fórmula de Iniciativa
+Para configurar la fórmula de Iniciativa debemos ir a Configurar Ajustes --> Custom System Builder y allí cambiar la Initiative formula a "iniciativa" (sin las comillas y en minuscula).
 
-![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/c499de71-1317-44bd-89b1-33805d8cf15d)
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/6ad8a49c-167d-4447-b2a9-6d11c3fe8858)
 
 Para que tenga efecto debemos refrescar la página.
 
