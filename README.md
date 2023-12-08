@@ -62,7 +62,7 @@ Aqui tenemos que seleccionar la template llamada PJ_Template_def.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
-![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/ce995ff3-b71b-4df6-b4dc-f640304f8104)
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/f5627b72-39c0-45fa-ad1a-070b3765250c)
 
 En la parte de arriba se pueden poner la vitalidad máxima y actual, las marcas de mejora y los puntos de historia, asi como hacer la tirada de iniciativa. Tambien es aquí donde aparecerán los estados si se arrastran a la ficha.
 
@@ -112,7 +112,7 @@ Aqui tenemos que seleccionar la template llamada PNJ_Template_def.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
-![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/1879812a-426b-49f7-a77e-97129bfce476)
+![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/7ccdcee5-3130-4a9d-8ed1-c59baf771db3)
 
 En la parte de arriba se pueden poner la vitalidad máxima y actual y podemos asignarle la iniciativa si es un valor fijo o hacer check en la casilla de encima si la iniciativa es con una tirada de Acción.
 
