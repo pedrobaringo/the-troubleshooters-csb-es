@@ -34,8 +34,9 @@ Para instalar este módulo en Foundry tienes que usar el siguiente Manifest en e
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/d904a729-8c60-433c-a126-d54e05735512)
 
-Cuando hayas creado un mundo con el sistema Custom System Builder debes activar este módulo. En la pestaña de compendios tendrás tres: "Templates Actores", "Templates Objetos" y "Macros".
-Es importante que importes primero los Objetos y después los Actores, pero sobretodo que se mantenga el ID del documento como se ve en la imagen:
+Cuando hayas creado un mundo con el sistema Custom System Builder debes activar este módulo. En la pestaña de compendios tendrás cuatro: "Templates Actores", "Templates Actores Def", "Templates Objetos" y "Macros".
+El compendio "Templates Actores" puedes ignorarlo, son templates de una versión antigua.
+Es importante que importes primero "Templates Objetos" y después "Templates Actores Def", pero sobretodo que se mantenga el ID del documento como se ve en la imagen:
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/6fa9c0c2-1936-4db6-99b2-7e80f54e7172)
 
@@ -53,9 +54,11 @@ Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "char
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/8968dfd6-5c10-4106-93c1-46780300058a)
 
-Aqui tenemos que seleccionar en Template una de las dos templates llamadas PJ_Template segun el siguiente criterio:
-* Si vamos a **usar el módulo Dice so Nice** (https://foundryvtt.com/packages/dice-so-nice) para ver las tiradas con dados 3D, debemos seleccionar la template **"PJ_Template_DSN"**. Sin el módulo no funcionarán las tiradas con esta template.
-* Si **no vamos a usar ese módulo**, debemos seleccionar la template **"PJ_Template"**.
+~~Aqui tenemos que seleccionar en Template una de las dos templates llamadas PJ_Template segun el siguiente criterio:~~
+~~* Si vamos a **usar el módulo Dice so Nice** (https://foundryvtt.com/packages/dice-so-nice) para ver las tiradas con dados 3D, debemos seleccionar la template **"PJ_Template_DSN"**. Sin el módulo no funcionarán las tiradas con esta template.~~
+~~* Si **no vamos a usar ese módulo**, debemos seleccionar la template **"PJ_Template"**.~~
+
+Aqui tenemos que seleccionar la template llamada PJ_Template_def.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
@@ -101,9 +104,11 @@ Hacemos click en Crear Actor, le ponemos un nombre y seleccionamos el tipo "char
 
 ![image](https://github.com/pedrobaringo/the-troubleshooters-csb-es/assets/148097688/8968dfd6-5c10-4106-93c1-46780300058a)
 
-Aqui tenemos que seleccionar en Template una de las dos templates llamadas PNJ_Template segun el siguiente criterio:
-* Si vamos a **usar el módulo Dice so Nice** (https://foundryvtt.com/packages/dice-so-nice) para ver las tiradas con dados 3D, debemos seleccionar la template **"PNJ_Template_DSN"**. Sin el módulo no funcionarán las tiradas con esta template.
-* Si **no vamos a usar ese módulo**, debemos seleccionar la template **"PNJ_Template"**.
+~~Aqui tenemos que seleccionar en Template una de las dos templates llamadas PNJ_Template segun el siguiente criterio:~~
+~~* Si vamos a **usar el módulo Dice so Nice** (https://foundryvtt.com/packages/dice-so-nice) para ver las tiradas con dados 3D, debemos seleccionar la template **"PNJ_Template_DSN"**. Sin el módulo no funcionarán las tiradas con esta template.~~
+~~* Si **no vamos a usar ese módulo**, debemos seleccionar la template **"PNJ_Template"**.~~
+
+Aqui tenemos que seleccionar la template llamada PNJ_Template_def.
 
 Una vez hemos seleccionado la template y hacemos click en el icono de refrescar en la ficha ya estamos listos para empezar a rellenarla.
 
