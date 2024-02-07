@@ -320,3 +320,102 @@ font-family:'Komika';
 	flex:0 0 50px;
 	margin-left: 0;
 }
+.dice-roll .dice-formula {
+	display:none;
+}
+.dice-tooltip .part-header {
+	display:none;
+}
+.dice-tooltip .dice-rolls {
+	display: flex;
+ 	justify-content: center;
+	flex-wrap: wrap;
+}
+.dice-roll .dice-total {
+	display:none;
+}
+.dice-roll .dice-tooltip {
+	display:block;
+}
+.custom-system-roll i{
+	display: none;
+}
+.custom-system-roll {
+    background: #fff0;
+    border: 0px solid #4b4a44;
+}
+.dice-tooltip .dice-rolls .roll.d100 {
+	font-size: 24px;
+    width: 70px;
+    line-height: 70px;
+    background-image: url("../assets/d10-purple.svg");
+    background-size: 70px 70px;
+    color: white;
+}
+.dice-tooltip .dice-rolls .roll.min {
+	filter:none;
+}
+.dice-tooltip .dice-rolls .roll.max {
+	filter:none;
+}
+.dice-tooltip .dice-rolls .roll.d6 {
+	font-size: 26px;
+    width: 50px;
+    line-height: 56px;
+    background-image: url("../assets/d6-purple.webp");
+    background-size: 50px 50px;
+	background-position: bottom left;
+    color: white;
+	margin-top:-4px;
+}
+.dice-tooltip .dice-rolls .roll.d6.success {
+	font-size: 26px;
+    width: 50px;
+    line-height: 56px;
+    background-image: url("../assets/d6-purple_success.webp");
+	background-position: bottom left;
+    background-size: 50px 50px;
+    color: white;
+	filter:none;
+	margin-top:-4px;
+}
+.dice-tooltip .dice-rolls .roll.d6.exploded {
+	font-size: 26px;
+    width: 50px;
+    line-height: 56px;
+    background-image: url("../assets/d6-purple_success_max.webp");
+    background-size: 50px 50px;
+    color: #76115f;
+	filter:none;
+	margin-top:-4px;
+}
+.dice-tooltip .dice-rolls .roll.d6.exploded::before {
+	display:none;
+}
+	
+.chat-message {
+	background: white;
+}
+.chat-message .message-header .message-sender{
+	font-family: 'Astounder';
+	text-align:center;
+	font-size:35px;
+	text-wrap: wrap;
+	line-height:80%;
+	margin-top:5px;
+	margin-bottom:5px;
+	color: #c51100;
+	white-space: normal;
+}
+.message .message-header .message-metadata {
+	flex:0 0 50px;
+	margin-left: 0;
+}
+.message-timestamp {
+	font-family:'Astounder';
+	text-wrap: wrap;
+	font-size:10px;
+}
+.chat-message .message-header {
+	border-bottom:2px solid #c51100;
+}

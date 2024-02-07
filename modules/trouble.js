@@ -48,4 +48,32 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       ],
       system: "troubleDice"
     });
+	dice3d.addDicePreset({
+      type:"d100",
+      labels:[
+        'modules/the-troubleshooters-csb-es/images/Cara10_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara20_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara30_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara40_d100.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara50_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara60_d100.webp',
+		'modules/the-troubleshooters-csb-es/images/Cara70_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara80_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara90_d100.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara00_d100.webp'
+      ],
+      bumpMaps:[
+        'modules/the-troubleshooters-csb-es/images/Cara10_d100_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara20_d100_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara30_d100_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara40_d100_Bump.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara50_d100_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara60_d100_Bump.webp',
+		'modules/the-troubleshooters-csb-es/images/Cara70_d100_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara80_d100_Bump.webp',
+        'modules/the-troubleshooters-csb-es/images/Cara90_d100_Bump.webp', 
+        'modules/the-troubleshooters-csb-es/images/Cara00_d100_Bump.webp'
+      ],
+      system: "troubleDice"
+    });
 });
