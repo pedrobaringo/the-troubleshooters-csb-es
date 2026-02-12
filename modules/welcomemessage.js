@@ -73,6 +73,8 @@ Hooks.once("ready", function() {
 						}, 500);
 						game.user.setFlag("the-troubleshooters-csb-es", "welcomeMessage", true);
 						game.user.setFlag("the-troubleshooters-csb-es", "lastVersion", game.modules.get("the-troubleshooters-csb-es").version);
+						ui.notifications.info(game.i18n.localize("Templates importadas. Recargando mundo en 6sec..."), {permanent: true});
+						window.setTimeout(window.location.reload.bind(window.location), 7000);
 					});
 				}
 				}, 100);
@@ -123,6 +125,8 @@ Hooks.once("ready", function() {
 						}, 500);
 						game.user.setFlag("the-troubleshooters-csb-es", "welcomeMessage", true);
 						game.user.setFlag("the-troubleshooters-csb-es", "lastVersion", game.modules.get("the-troubleshooters-csb-es").version);
+						ui.notifications.info(game.i18n.localize("Templates importadas. Recargando mundo en 6sec..."), {permanent: true});
+						window.setTimeout(window.location.reload.bind(window.location), 7000);
 					});
 				}
 				}, 500);
